@@ -42,28 +42,26 @@ This method accepts two parameters:
 | Param     | Type   | Required | Values               |
 |-----------|--------|----------|----------------------|
 | Bank      | String | True     | BBCA                 |
-| Currency  | String | False    | See currencies table |
+| Currency  | String | False    | See currencies below |
 
 
 Available currencies:
-| BANK | CURRENCIES |
-|------|------------|
-| BBCA | USD        |
-|      | SGD        |
-|      | EUR        |
-|      | AUD        |
-|      | DKK        |
-|      | SEK        |
-|      | CAD        |
-|      | CHF        |
-|      | NZD        |
-|      | GBP        |
-|      | HKD        |
-|      | JPY        |
-|      | SAR        |
-|      | CNY        |
-|      | MYR        |
-|      | THB        |
+* USD 
+* SGD
+* EUR
+* AUD
+* DKK
+* SEK
+* CAD
+* CHF
+* NZD
+* GBP
+* HKD
+* JPY
+* SAR
+* CNY
+* MYR
+* THB
 
 
 ## License
