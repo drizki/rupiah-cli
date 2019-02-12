@@ -1,0 +1,35 @@
+{
+  "name": "rupiah-cli",
+  "version": "0.0.1",
+  "description": "Get, convert, and view history of rupiah from and to another currency.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rupiah",
+    "idr",
+    "usd",
+    "converter",
+    "currency",
+    "fintech",
+    "scrap",
+    "bank",
+    "indonesia",
+    "mandiri",
+    "bca",
+    "btn",
+    "bni",
+    "bri"
+  ],
+  "author": "Dwi Rizki Irawan <dwi.rizki.irawan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cheerio-tableparser": "^1.0.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
