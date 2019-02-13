@@ -1,6 +1,6 @@
 {
   "name": "rupiah-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get, convert, and view history of rupiah from and to another currency.",
   "main": "lib/index.js",
   "scripts": {
