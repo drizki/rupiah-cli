@@ -1,7 +1,7 @@
 {
   "name": "rupiah-cli",
   "version": "0.0.2",
-  "description": "Get, convert, and view history of rupiah from and to another currency.",
+  "description": "Get and convert Rupiah exchange rate from various sources.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
